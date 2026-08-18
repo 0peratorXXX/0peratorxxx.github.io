@@ -18,12 +18,11 @@
 {{$year}}
 
 {{- $currentYear = $year }}
-:  - {{$type}}{{- if .link }}[{{.title}}]({{.link}}){{- else }}{{.title}}{{- end }}
+:  - {{$type}}&nbsp;**{{- if .link }}[{{.title}}]({{.link}}){{- else }}{{.title}}{{- end }}**
 {{- else }}
-   - {{$type}}{{- if .link }}[{{.title}}]({{.link}}){{- else }}{{.title}}{{- end }}
-{{- end }}
-
-     ({{dateFormat "January" .date}} {{$day}}{{$suffix}} {{$year}})
+   - {{$type}}&nbsp;**{{- if .link }}[{{.title}}]({{.link}}){{- else }}{{.title}}{{- end }}**
+{{- end }}\
+     {{dateFormat "January" .date}} {{$day}}{{$suffix}} {{$year}}
      {{- if .content }}
 
      {{.content}}

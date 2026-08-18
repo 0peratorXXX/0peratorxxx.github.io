@@ -6,12 +6,18 @@ showPostNavLinks: false
 showToc: false
 
 events:
+  - title: '"Adventures in Open Source Development" @ FrOSCon 2026 (Keynote)'
+    link: https://programm.froscon.org/froscon2026/talk/3f912aee-2f3b-4111-952d-bea19d890682/
+    date: 2026-08-15
+    type: talk
+    content: |
+      [Slides](https://foosel.github.io/froscon2026/), [Recording](https://media.ccc.de/v/froscon2026-3673-adventures_in_open_source_development)
   - title: '"Basic Security for Open Source Maintainers" @ PyCon Italia 2026'
     link: https://2026.pycon.it/en/event/basic-security-for-open-source-maintainers
     date: 2026-05-28
     type: talk
     content: |
-      [Slides](https://foosel.github.io/pyconit2026/)
+      [Slides](https://foosel.github.io/pyconit2026/), [Recording](https://www.youtube.com/watch?v=TO2YzAyVZcM)
   - title: '"How to deal with toxic people" @ EuroPython 2025'
     link: https://ep2025.europython.eu/session/how-to-deal-with-toxic-people
     date: 2025-07-16
