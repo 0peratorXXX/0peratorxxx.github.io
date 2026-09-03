@@ -1,6 +1,6 @@
-baseURL: "https://0peratorxxx.github.io/kernel503_.github.com/"
+baseURL: "https://0peratorxxx.github.io/"
 languageCode: en-us
-title: foosel.net
+title: Kernel503_
 copyright: "Gina Häußge (foosel)"
 capitalizeListTitles: false
 theme: 
@@ -28,7 +28,7 @@ params:
 
   profileMode:
     enabled: true
-    title: Hi, I'm Gina Häußge aka foosel!
+    title: Hi, I'm Kernel503_!
     subtitle: >
       🐒 Passionate code monkey 👩‍💻 Geek 🎮 Gamer 🧗‍♀️ Bouldering apprentice 💡 Problem solver 🐍 Python wrangler 🐙 Creator & maintainer of OctoPrint
     imageUrl: "img/me.jpg"
